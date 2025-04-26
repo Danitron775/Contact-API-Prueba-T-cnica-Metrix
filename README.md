@@ -73,12 +73,6 @@ Esto levanta tanto el backend como PostgreSQL.
 
 ---
 
-## Ejecutar pruebas
-
-> No se incluyeron pruebas automáticas en esta implementación. Se recomienda usar Jest para test unitarios en producción.
-
----
-
 ## Endpoints disponibles
 
 ### POST /api/contact-submissions
