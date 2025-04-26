@@ -123,8 +123,8 @@ Devuelve la cantidad de formularios agrupados por país.
 
 ```
 [
-  { "pais": "Colombia", "conteo": 5 },
-  { "pais": "México", "conteo": 2 }
+  { "pais": "CO", "conteo": 5 },
+  { "pais": "MX", "conteo": 2 }
 ]
 ```
 
